@@ -1,0 +1,22 @@
+import React from 'react';
+
+const AboutPage = () => {
+  return (
+    <div className="mb-1 p-9 bg-orange-100">
+      <h1 className="text-3xl font-bold mb-4">About Us</h1>
+      <h1 className="text-3xl font-semibold mb-4">Coffee</h1>
+      <p className="text-lg mb-10">Coffee (Dutch: koffie) or kahwa is an agricultural plant that is made into a drink made from coffee beans that have been roasted and ground into powder.Coffee is a commodity in the world that is cultivated in more than 50 countries. Two species of coffee trees that are generally known are Robusta Coffee (Coffea canephora) and Arabica Coffee (Coffea arabica).</p>
+
+      <p className="text-lg mb-4">Before coffee can be drunk, it takes a long process, namely by harvesting the ripe coffee beans, either by machine or by hand.then the coffee beans are processed and dried before they become coffee logs. The next process is roasting to varying degrees. After roasting, the coffee beans are ground or ground into coffee powder before the coffee can be drunk.</p>
+      <p className="text-lg mb-10">History records that the discovery of coffee as a nutritious and energy drink was first discovered by the Ethiopians on the African continent around 3000 years (1000 BC) ago.Coffee then continued to develop until now it has become one of the most popular drinks in the world consumed by various groups of people.Indonesia itself is able to produce more than 400 thousand tons of coffee per year.Apart from its attractive taste and aroma, coffee can also reduce the risk of cancer, diabetes, gallstones and various heart (cardiovascular) diseases.</p>
+      <h1 className="text-3xl font-bold mb-4">Etimologi</h1>
+      <p className="text-lg mb-10">&apos;The word coffee originates from Arabic: قهوة qahwah which at that time was used to refer to wine, while the word bunn at that time was used to refer to beans. So it is called qahwah al-bunn which means a drink similar to wine that comes from grains such as nuts. Then the word qahwah was used more to refer to this coffee drink than to refer to wine, while the word bunn was ultimately used to refer to coffee beans rather than to refer to nuts. The word qahwah again changed to kahveh in Turkish and then changed again to koffie in Dutch. The use of the word koffie was immediately absorbed into Indonesian to become the word kopi which is known today.&apos;</p>
+      <h1 className="text-3xl font-bold mb-4">Beans Coffee Arabica</h1>
+      <p className="text-lg mb-10">Kopi arabika merupakan tipe kopi tradisional dengan cita rasa terbaik.Sebagian besar kopi yang ada dibuat dengan menggunakan biji kopi jenis ini. Kopi ini berasal dari Etiopia dan sekarang telah dibudidayakan di berbagai belahan dunia, mulai dari Amerika Latin, Afrika Tengah, Afrika Timur, India, dan Indonesia.Secara umum, kopi ini tumbuh di negara-negara beriklim tropis atau subtropis.Kopi arabika tumbuh pada ketinggian 600–2000 m di atas permukaan laut.Tanaman ini dapat tumbuh hingga 3 meter bila kondisi lingkungannya baik. Suhu tumbuh optimalnya adalah 18-26oC. Biji kopi yang dihasilkan berukuran cukup kecil dan berwarna hijau hingga merah gelap.</p>
+      <h1 className="text-3xl font-bold mb-4">Beans Coffee Robusta</h1>
+      <p className="text-lg mb-10">Robusta coffee was first discovered in Congo in 1898. Robusta coffee can be said to be class 2 coffee, because it tastes more bitter, slightly sour, and contains much higher levels of caffeine, 1.62-1.76% (w/w). Apart from that, the growing area for Robusta coffee is wider than Arabica coffee which must be grown at a certain height. Robusta coffee can be grown at an altitude of 800 m above sea level. In addition, this type of coffee is more resistant to pest and disease attacks. This makes robusta coffee cheaper. Robusta coffee is widely grown in West Africa, Central Africa, Southeast Asia and South America. Robusta coffee was first discovered in Congo in 1898. Robusta coffee can be said to be class 2 coffee, because it tastes more bitter, slightly sour, and contains caffeine. in much higher levels 1.62-1.76%(w/w). Apart from that, the growing area for Robusta coffee is wider than Arabica coffee which must be grown at a certain height. Robusta coffee can be grown at an altitude of 800 m above sea level. In addition, this type of coffee is more resistant to pest and disease attacks. This makes robusta coffee cheaper. Robusta coffee is widely grown in West Africa, Central Africa, Southeast Asia and South America.</p>
+    </div>
+  );
+}
+
+export default AboutPage;
